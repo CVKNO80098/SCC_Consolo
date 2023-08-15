@@ -1,0 +1,10 @@
+﻿  SCC_Consolo.cpp
+C:\Users\qc275\Desktop\SCC_Consolo\SCC_Consolo\SCC_Consolo.cpp(31,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\qc275\Desktop\SCC_Consolo\SCC_Consolo\SCC_Consolo.cpp(195,71): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\qc275\Desktop\SCC_Consolo\SCC_Consolo\SCC_Consolo.cpp(307,62): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\qc275\Desktop\SCC_Consolo\SCC_Consolo\SCC_Consolo.cpp(332,45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  SCC_Consolo.vcxproj -> C:\Users\qc275\Desktop\SCC_Consolo\x64\Debug\SCC_Consolo.exe
